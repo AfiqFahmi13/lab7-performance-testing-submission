@@ -1,7 +1,7 @@
 # Performance Test Report: PyTodo
 
-Names: <name 1>, <name 2>
-Date: <date>
+Names: Mohd Afiq Fahmi
+Date: 24 Nov
 
 Length: 3 to 4 pages. Every number comes from your own runs.
 

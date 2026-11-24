@@ -85,3 +85,4 @@ expected effect on throughput, response time, or error rate.
 Name two limits of the measurements. Examples to consider: where JMeter
 ran, the length of each run, and the number of runs per load level.
 # Lab 7 Notes
+# Lab 7 Notes
